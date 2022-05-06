@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Facturación Electrónica`,
+    siteUrl: `https://www.factura-agil.com`,
     description: `Facturación Electrónica Ecuador, emisión de comprobantes regulados por el SRI.`,
     author: `@borismoreno`,
     keywords: `facturacion electronica, factura ecuador, sri, facturas, factura`,
